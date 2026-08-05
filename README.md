@@ -33,6 +33,7 @@ Puedes explorar el contenido directamente a través del mapa de ruta:
 📄 Ir al Mapa de Ruta Completo (000_MAPA_RUTA_JAPONES.md)
 
 🧱 Los 13 Pilares Básicos
+
   **01. Sujeto e Identidad (は / です)**
 
   **02. El Objeto Directo (を)**
