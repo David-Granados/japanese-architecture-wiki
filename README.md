@@ -33,31 +33,31 @@ Puedes explorar el contenido directamente a través del mapa de ruta:
 📄 Ir al Mapa de Ruta Completo (000_MAPA_RUTA_JAPONES.md)
 
 🧱 Los 13 Pilares Básicos
-Pilar 01: Sujeto e Identidad (は / です)
+  **01. Sujeto e Identidad (は / です)**
 
-Pilar 02: El Objeto Directo (を)
+  **02. El Objeto Directo (を)**
 
-Pilar 03: Localización y Destino (に / で)
+  **03. Localización y Destino (に / で)**
 
-Pilar 04: La Pregunta (か)
+  **04. La Pregunta (か)**
 
-Pilar 05: Petición Cortés (ください / お願いします)
+  **05. Petición Cortés (ください / お願いします)**
 
-Pilar 06: Presente y Negación Formal (〜ます / 〜ません)
+  **06. Presente y Negación Formal (〜ます / 〜ません)**
 
-Pilar 07: El Pasado Verbal (〜ました / 〜ませんでした)
+  **07. El Pasado Verbal (〜ました / 〜ませんでした)**
 
-Pilar 08: Posesión y Conexión (の)
+  **08. Posesión y Conexión (の)**
 
-Pilar 09: Capacidad y Posibilidad (〜できます / Potencial)
+  **09. Capacidad y Posibilidad (〜できます / Potencial)**
 
-Pilar 10: Control de Velocidad y Emergencias
+  **10. Control de Velocidad y Emergencias**
 
-Pilar 11: Escucha Activa y Reacción (Aizuchi)
+  **11. Escucha Activa y Reacción (Aizuchi)**
 
-Pilar 12: Existencia (あります / います)
+  **12. Existencia (あります / います)**
 
-Pilar 13: Deseo e Intención (〜たいです)
+  **13. Deseo e Intención (〜たいです)**
 
 📜 Licencia
 Actualmente este repositorio se encuentra en fase de desarrollo personal. Una vez público, el contenido estará disponible bajo licencia libre para su consulta y aprendizaje.
