@@ -63,14 +63,16 @@ Red / Internet: ネット (Netto)
 🧪 Adaptación de Palabras al "Oído Japonés"
 Como la mayoría de las sílabas en japonés acaban en vocal, los extranjerismos sufren una "japonización" fonética:
 
-
-| Palabra Original   | Origen             | Adaptación Katakana | Romaji       |
-| **España**         | Español            |      スペイン        | *Supein*     |
-| **Restaurante**    | Francés/Inglés     | レストラン           | *Resutoran*  |
-| **Pan**            | Portugués          | パン                | *Pan*        |
-| **Cerveza (Bier)** | Alemán             | ビール              | *Bīru*        |
-| **Ordenador (PC)** | Inglés (Abreviado) | パソコン            | *Pasokon*     |
-| **Wi-Fi**          | Inglés             | ワイファイ           | *Waifai*     |
+````text
+| Palabra Original | Origen | Adaptación Katakana | Romaji |
+| :--- | :--- | :--- | :--- |
+| **España** | Español | スペイン | *Supein* |
+| **Restaurante** | Francés/Inglés | レストラン | *Resutoran* |
+| **Pan** | Portugués | パン | *Pan* |
+| **Cerveza (Bier)** | Alemán | ビール | *Bīru* |
+| **Ordenador (PC)** | Inglés (Abreviado) | パソコン | *Pasokon* |
+| **Wi-Fi** | Inglés | ワイファイ | *Waifai* |
+````
 
 💡 Consejo de Estudio y Práctica
 No intentes aprenderte el Katakana de memoria plano como si fuera una lista de la compra.
